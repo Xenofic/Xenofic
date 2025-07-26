@@ -2,20 +2,17 @@
 <h3 align="center">Backend Engineer | Building reliable, scalable systems across Web & Cloud</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=xenofic&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/your_twitter" target="_blank">
+  <a href="https://twitter.com/XenoSheesh" target="_blank">
     <img src="https://img.shields.io/badge/Follow-%40your_twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://linkedin.com/in/your_linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%40your_linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/your_instagram" target="_blank">
+  <a href="https://instagram.com/ig_xeno777" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%40your_instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://discord.gg/your_discord_invite" target="_blank">
+  <a href="https://discord.com/users/1071843392268546068" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%40your_discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
@@ -23,31 +20,28 @@
 ---
 
 - 🔧 I’m currently working on **microservice architectures**, **stream processing**, and **cloud infrastructure**  
-- 🧠 I’m diving deeper into **Apache Kafka**, **Kubernetes**, **GraphQL**, and **AI/ML pipelines**  
-- 📬 How to reach me: **your.email@example.com**  
+- 🧠 I’m diving deeper into **Apache Spark**, **Kubernetes**, **gRPC**, and **AI/ML pipelines**  
+- 📬 How to reach me: **puzari@icloud.com**  
 - ⚡ Fun fact: *"The only constant in software is change—embrace it!"*
 
 ---
 
 ## 🧠 Activity
 
-![Discord Presence](https://lanyard-profile-readme.vercel.app/api/your_discord_id?theme=dracula&bg=1e1e2e&animated=true&hideDiscrim=true&borderRadius=20px&idleMessage=Probably%20writing%20some%20code...)
+![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1071843392268546068?theme=dracula&bg=1e1e2e&animated=true&hideDiscrim=true&borderRadius=20px&idleMessage=Probably%20writing%20some%20code...)
 
 ---
 
 ## 🤝 Connect with me
 
 <p align="left">
-  <a href="https://twitter.com/your_twitter" target="_blank">
+  <a href="https://twitter.com/XenoSheesh" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/your_linkedin" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/your_instagram" target="_blank">
+  <a href="https://instagram.com/ig_xeno777" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-  <a href="https://discord.gg/your_discord_invite" target="_blank">
+  <a href="https://discord.com/users/1071843392268546068" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
   </a>
 </p>
@@ -129,6 +123,6 @@ Apache Spark • BigQuery • TensorFlow • PyTorch • NumPy • Matplotlib �
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dracula&hide_border=true&langs_count=6" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=xenofic&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xenofic&layout=compact&theme=dracula&hide_border=true&langs_count=6" alt="Top Languages" />
 </p>
