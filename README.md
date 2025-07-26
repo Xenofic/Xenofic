@@ -7,13 +7,13 @@
 
 <p align="center">
   <a href="https://twitter.com/XenoSheesh" target="_blank">
-    <img src="https://img.shields.io/badge/Follow-%40your_twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/Follow-%40XenoSheesh-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="https://instagram.com/ig_xeno777" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%40your_instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-%40ig_xeno777-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://discord.com/users/1071843392268546068" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%40your_discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    <img src="https://img.shields.io/badge/Discord-%40xenofic-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
 
